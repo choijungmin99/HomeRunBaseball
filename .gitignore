@@ -1,0 +1,16 @@
+# Unreal build files and local editor state
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+Plugins/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Generated submission archives
+Submission/
